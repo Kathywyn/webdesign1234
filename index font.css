@@ -1,0 +1,14 @@
+.thecontent{
+	background-color: #c6ccd1; 
+    margin: 10px 20px 20px 5px; 
+	padding: 10px 10px 20px 10px; 
+	}
+
+.content{
+	background-color: #dedfe0; 
+    margin: 10px 20px 20px 5px; 
+	padding: 10px 10px 20px 10px; 
+	width: 850px;
+	margin: 0 auto;  
+}
+
